@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/PetSimXScripts2023/a06e9fa602f30a027f317d38aca1982a/raw/b5ae2c2509661c57874d30f5302ba16485df1576/Psx%2520autofarm.txt"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/VaporeonScripts/1479450e0340239051b7675467d02be6/raw/b59a81038c137a3aa4b3a00d507d9be8f8719f14/PsxAllscriptsLoader"))()
